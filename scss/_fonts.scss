@@ -1,0 +1,32 @@
+/* cormorant-garamond-600 - latin */
+@font-face {
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: local(''),
+         url('../fonts/cormorant-garamond-v15-latin-600.woff2') format('woff2'),
+         url('../fonts/cormorant-garamond-v15-latin-600.woff') format('woff');
+  }
+
+  /* oranienbaum-regular - latin */
+@font-face {
+    font-family: 'Oranienbaum';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(''),
+         url('../fonts/oranienbaum-v13-latin-regular.woff2') format('woff2'),
+         url('../fonts/oranienbaum-v13-latin-regular.woff') format('woff');
+  }
+
+  /* pt-sans-regular - latin */
+@font-face {
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local(''),
+         url('../fonts/pt-sans-v16-latin-regular.woff2') format('woff2'),
+         url('../fonts/pt-sans-v16-latin-regular.woff') format('woff');
+  }
